@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3e2wl029jjberfex?svg=true)](https://ci.appveyor.com/project/davmarat/webworkesr)
